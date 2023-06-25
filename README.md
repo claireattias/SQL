@@ -1,4 +1,4 @@
-This activity looks at data from six CSV files containing information on previous employees at Pewlett Hackard (a fictional company). The csv files are imported into a SQL database (PostgreSQL) and tables are designed to hold the data from the CSV files. 
+This activity looks at data from six CSV files containing information on previous employees at Pewlett Hackard (a fictional company). The csv files are imported into a SQL database (PostgreSQL) and tables are designed to hold the data from the CSV files.
 
 The activity is divided into three parts: 
 
