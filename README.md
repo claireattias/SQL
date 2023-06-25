@@ -1,9 +1,17 @@
-For this project, you’ll design the tables to hold the data from CSV files, import the CSV files into a SQL database, and then answer questions about the data.
+This activity looks at data from six CSV files containing information on previous employees at Pewlett Hackard (a fictional company). The csv files are imported into a SQL database (PostgreSQL) and tables are designed to hold the data from the CSV files. 
 
-This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
+The activity is divided into three parts: 
 
-  -Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables
-  
-  -Create a table schema for each of the six CSV files
-  
-  
+Data Modeling
+-
+- CSV files are inspected and an Entity Relation Diagram of the tables is composed.
+
+Data Engineering
+-
+- Table schemas for each of the six CSV files are created (specifying the data types, primary keys, foreign keys, and other constraints)
+- CSV files are imported into corresponding SQL table
+
+Data Analysis
+-
+- Data is explored to answer questions regarding previous employees
+
